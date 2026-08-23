@@ -1,0 +1,15 @@
+masark-keystone/
+├── 📁 apps/
+│   ├── web/                 # تطبيق الويب (Next.js)
+│   ├── api/                 # واجهة البرمجة (Node.js / FastAPI)
+│   └── mobile/              # تطبيق الجوال (مستقبلي)
+├── 📁 packages/
+│   ├── ui/                  # مكونات واجهة المستخدم المشتركة
+│   ├── config/              # الإعدادات المشتركة
+│   └── types/               # أنواع TypeScript المشتركة
+├── 📁 content/
+│   ├── courses/             # محتوى الكورسات (Markdown / MDX)
+│   └── career-paths/        # خطط المسارات المهنية (JSON / YAML)
+├── 📁 ai-engine/            # محرك التوصية والذكاء الاصطناعي
+├── 📁 docs/                 # الوثائق التقنية والتصاميم
+└── 📄 README.md
