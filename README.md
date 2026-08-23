@@ -2,8 +2,7 @@
 منصة مسارك المهني (Masark Keystone) — نظام بيئي تعليمي وتقني يقدم مسارات مهنية احترافية (+10 مسارات)، مع شراكات استراتيجية مع منصات توظيف عالمية (LinkedIn) ومنصات تعلم (Coursera, Udemy) وجامعات مرموقة. نربط التعليم بالتوظيف في بنية واحدة متكاملة.
 &lt;div align="center"&gt;
   
-  &lt;!-- استبدل هذا برابط الشعار الرسمي لاحقاً --&gt;
-  &lt;img src="https://via.placeholder.com/200x200/0f172a/38bdf8?text=مسارك" alt="Masark Keystone Logo" width="160" style="border-radius: 24px; box-shadow: 0 12px 40px rgba(56,189,248,0.25);"&gt;
+  &lt;img src="./assets/Masarik_logo-1.png" alt="Masark Keystone Logo" width="160" style="border-radius: 24px; box-shadow: 0 12px 40px rgba(56,189,248,0.25);"&gt;
   
   &lt;h1&gt;مسارك المهني | Masark Keystone&lt;/h1&gt;
   
